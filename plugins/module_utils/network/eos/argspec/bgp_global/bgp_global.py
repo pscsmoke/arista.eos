@@ -82,6 +82,7 @@ class Bgp_globalArgs(object):  # pylint: disable=R0903
                                 "connected",
                                 "rip",
                                 "static",
+                                "learned",
                             ],
                         },
                         "isis_level": {
